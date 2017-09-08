@@ -36,7 +36,7 @@ gem 'annotate'
 
 gem "paperclip", "~> 4.3"
 
-gem 'aws-sdk', '~> 2.3'
+gem 'aws-sdk', '~> 2.0'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
